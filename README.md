@@ -1,5 +1,5 @@
-# Stanford-NER-for-Twitter
-Understanding NER, attempting to improve accuracy for twitter applications
+# Named-Entity-Recognition-CRF
+Understanding machine learning NER, attempting to improve accuracy of Stanfords CRF model for twitter applications
 
 ====FOLDERS OVERVIEW====
 
